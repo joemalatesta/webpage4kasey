@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(249, 151, 229);
+  background-image: url("../images/KCJAM.jpg");
+  background-size: cover;
+}
+
+h1, h2 {
+  text-align: center;
+  color: pink
+}
+
